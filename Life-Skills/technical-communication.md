@@ -1,30 +1,30 @@
-# Messaging Queues
+# Message Queues
 
-## What are Messaging Queues?
+## What are Message Queues?
 
 * Message Queues are basically a communication system that allows system components to send messages to each other in an asynchronous manner
-* It is a mediator that stores the messages temporarily which was sent by the message sender (producer) to message reciever(consumer)
+* It acts as a mediator that temporarily stores the messages sent by the sender (producer) to the receiver (consumer)
 
 ## Why are they used?
 
 1. Decoupling Systems
 
-   * A service (producer) can send message without having to wait for the reciever (consumer)
+   * A service (producer) can send a message without having to wait for the receiver (consumer)
    * Makes systems easier to maintain and scale
 
 2. Asynchronous Processing
 
-   * If there are any tasks available, they can be done at a later time
+   * If there are any tasks available, they can be finished at a later time
    * Hence the main application stays fast, since they do not have to wait for any task to be completed
   
 3. Load Balancing
-producer
-   * If there are many messages recieved, multiple consumers can process them in parallel
+
+   * If there are many messages received, multiple consumers can process them in parallel
   
 4. Reliability and Fault Tolerance
 
    * Messages are basically stored until they are processed successfully
-   * Meaning if there are any service crash, the messages are not lost at all
+   * Meaning if there are any service crashes, the messages are not lost at all
   
 ## What are popular tools?
 
@@ -35,11 +35,11 @@ producer
 * Redis Streams
 * ActiveMq
 
-## What is Enterprise Bus Message?
+## What is Enterprise Message Bus?
 
-* Also called as Enterprise Service Bus (ESB)
-* It is a software architecture which acts as a centralised middleware
-* Helps is cmediating ommunication between applications that was not originally designed to work together
+* Also called Enterprise Service Bus (ESB)
+* It is a software architecture which acts as a centralized middleware
+* Helps in mediating communication between applications that were not originally designed to work together
 
 
 ## References
