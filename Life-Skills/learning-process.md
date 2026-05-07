@@ -45,7 +45,7 @@
 
 # References
 
-https://www.youtube.com/watch?v=_f-qkGJBPts
-https://www.youtube.com/watch?v=O96fE1E-rf8
-https://www.youtube.com/watch?v=5MgBikgcWnY
-https://doist.com/blog/deep-work/
+* https://www.youtube.com/watch?v=_f-qkGJBPts
+* https://www.youtube.com/watch?v=O96fE1E-rf8
+* https://www.youtube.com/watch?v=5MgBikgcWnY
+* https://doist.com/blog/deep-work/
