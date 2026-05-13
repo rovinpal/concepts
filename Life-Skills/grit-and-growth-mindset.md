@@ -1,11 +1,13 @@
 # Grit and Growth Mindset
 
-## Paraphrase (summarize) the video in a few (1 or 2) lines. (https://www.youtube.com/watch?v=H14bBuluwB8)
+## Paraphrase (summarize) the video in a few (1 or 2) lines. 
+'''https://www.youtube.com/watch?v=H14bBuluwB8'''
 
 * Grit is basically combination of passion and commitment to certain goals.
 * People who work hard, who learn and practice and work on improving consistently are more likely to succeed than those who rely on talent or knowledge.
 
-## Paraphrase (summarize) the video in a few (1 or 2) lines. (https://www.youtube.com/watch?v=75GFzikmRY0)
+## Paraphrase (summarize) the video in a few (1 or 2) lines. 
+'''https://www.youtube.com/watch?v=75GFzikmRY0'''
 
 * People with growth mindset are more likely to achieve their target goals as compared to people with fixed mindset.
 * We need change out beliefs and focus in order to have a growth mindset.
