@@ -10,9 +10,9 @@ https://www.youtube.com/watch?v=AdKUJxjn-R8
 
 * You can make habits easier by making them simpler, having a clear reminder, and not needing too much motivation.
 * MAP means
-** M = Motivation (how much you want to do it)
-** A = Ability (how easy it is to do)
-** P = Prompt (something that reminds you to do it)
+   - M = Motivation 
+   - A = Ability
+   - P = Prompt
 
 ## Why it is important to "Shine" or Celebrate after each successful completion of habit?
 
@@ -44,6 +44,7 @@ Habits are really about who you want to be, not just what you want to do. Its li
 ## Pick one habit that you would like to do more of? What are the steps that you can take to make it make the cue obvious or the habit more attractive or easy and or response satisfying?
 
 * Habit: Exercise every day
+
 * Steps:
 1. Put my workout clothes where I can see them.
 2. Start with 5-minute workouts.
@@ -53,8 +54,8 @@ Habits are really about who you want to be, not just what you want to do. Its li
 ## Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?
 
 * Habit: Scrolling on my phone before bed
-* Steps:
 
+* Steps:
 1. Keep phone in another room.
 2. Make it hard: Turn off notifications.
 3. Make it boring: Don’t let it be fun.
